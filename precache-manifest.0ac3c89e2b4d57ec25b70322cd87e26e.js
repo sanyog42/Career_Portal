@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/Career_Portal/fonts/nucleo.5987dd12.woff2"
   },
   {
-    "revision": "f0b489a5dbbff08833d21024f9fcbd4e",
-    "url": "/Career_Portal/fonts/nucleo.f0b489a5.woff"
-  },
-  {
     "revision": "b17a118e13e53558658b681a0ebdad82",
     "url": "/Career_Portal/fonts/nucleo.b17a118e.ttf"
+  },
+  {
+    "revision": "f0b489a5dbbff08833d21024f9fcbd4e",
+    "url": "/Career_Portal/fonts/nucleo.f0b489a5.woff"
   },
   {
     "revision": "5fa699969d68b6546e0cc3b84bcc533a",
