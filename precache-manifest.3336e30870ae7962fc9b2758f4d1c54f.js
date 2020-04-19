@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2c5d019a73c95e7c9976",
+    "revision": "35ba8e105ff02700fdd3",
     "url": "/Career_Portal/css/app.a9ae5646.css"
   },
   {
-    "revision": "2c5d019a73c95e7c9976",
-    "url": "/Career_Portal/js/app.87b8db08.js"
+    "revision": "35ba8e105ff02700fdd3",
+    "url": "/Career_Portal/js/app.2fece3ca.js"
   },
   {
     "revision": "f23e603165cc5e396efb",
@@ -16,35 +16,35 @@ self.__precacheManifest = [
     "url": "/Career_Portal/js/chunk-vendors.cd45bcb7.js"
   },
   {
-    "revision": "6e5a8e0d8f00e75434be",
-    "url": "/Career_Portal/js/common.4f411df1.js"
+    "revision": "ad4093fd8007f96ce016",
+    "url": "/Career_Portal/js/common.6838ec1f.js"
   },
   {
-    "revision": "dd483d3c1250a4da8488",
+    "revision": "35b0098f8ee490609cb7",
     "url": "/Career_Portal/css/dashboard.56e11053.css"
   },
   {
-    "revision": "dd483d3c1250a4da8488",
-    "url": "/Career_Portal/js/dashboard.e7df24eb.js"
+    "revision": "35b0098f8ee490609cb7",
+    "url": "/Career_Portal/js/dashboard.38e9320e.js"
   },
   {
     "revision": "03ef1918e505c3e3471f9369ef7a638f",
     "url": "/Career_Portal/fonts/nucleo.03ef1918.eot"
   },
   {
-    "revision": "5987dd12fea78ce5f97ae601b08ec03c",
-    "url": "/Career_Portal/fonts/nucleo.5987dd12.woff2"
-  },
-  {
     "revision": "f0b489a5dbbff08833d21024f9fcbd4e",
     "url": "/Career_Portal/fonts/nucleo.f0b489a5.woff"
+  },
+  {
+    "revision": "5987dd12fea78ce5f97ae601b08ec03c",
+    "url": "/Career_Portal/fonts/nucleo.5987dd12.woff2"
   },
   {
     "revision": "b17a118e13e53558658b681a0ebdad82",
     "url": "/Career_Portal/fonts/nucleo.b17a118e.ttf"
   },
   {
-    "revision": "cca46f74a67c5b30f15623d65bea4092",
+    "revision": "4c9d68dcf89ceefcd8d29711a3ef1812",
     "url": "/Career_Portal/index.html"
   },
   {
