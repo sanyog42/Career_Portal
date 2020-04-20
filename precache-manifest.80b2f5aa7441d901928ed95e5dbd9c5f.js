@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7e88377089f23f93979e",
+    "revision": "c7f65ecaf915679c39b3",
     "url": "/Career_Portal/css/app.a9ae5646.css"
   },
   {
-    "revision": "7e88377089f23f93979e",
-    "url": "/Career_Portal/js/app.0885ab7c.js"
+    "revision": "c7f65ecaf915679c39b3",
+    "url": "/Career_Portal/js/app.8de648af.js"
   },
   {
     "revision": "f23e603165cc5e396efb",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/Career_Portal/js/common.99d08f18.js"
   },
   {
-    "revision": "b24d15f2bf5b1e9406fc",
+    "revision": "c8e1d3bfac91d993cee5",
     "url": "/Career_Portal/css/dashboard.56e11053.css"
   },
   {
-    "revision": "b24d15f2bf5b1e9406fc",
-    "url": "/Career_Portal/js/dashboard.b06f0fc0.js"
+    "revision": "c8e1d3bfac91d993cee5",
+    "url": "/Career_Portal/js/dashboard.c2cc9303.js"
   },
   {
     "revision": "03ef1918e505c3e3471f9369ef7a638f",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Career_Portal/fonts/nucleo.b17a118e.ttf"
   },
   {
-    "revision": "1dcae7608c90d65367ae132c1c3d0b28",
+    "revision": "2359fbe8d1c55ca30f291e5604f5aa78",
     "url": "/Career_Portal/index.html"
   },
   {
