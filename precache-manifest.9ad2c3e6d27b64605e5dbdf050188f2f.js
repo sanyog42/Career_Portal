@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b9136435bbda5b280806",
-    "url": "/Career_Portal/css/app.66165320.css"
+    "revision": "499487fc6fec4a0bd3ac",
+    "url": "/Career_Portal/css/app.50b287e2.css"
   },
   {
-    "revision": "b9136435bbda5b280806",
-    "url": "/Career_Portal/js/app.b04e4a08.js"
+    "revision": "499487fc6fec4a0bd3ac",
+    "url": "/Career_Portal/js/app.04c97bbf.js"
   },
   {
     "revision": "f23e603165cc5e396efb",
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/Career_Portal/js/common.41d6a7b6.js"
   },
   {
-    "revision": "c20852f9446598898174",
-    "url": "/Career_Portal/css/dashboard.56e11053.css"
+    "revision": "658bf8c4ce5aac177dc0",
+    "url": "/Career_Portal/css/dashboard.c7771e88.css"
   },
   {
-    "revision": "c20852f9446598898174",
-    "url": "/Career_Portal/js/dashboard.029220ef.js"
+    "revision": "658bf8c4ce5aac177dc0",
+    "url": "/Career_Portal/js/dashboard.a690223f.js"
   },
   {
     "revision": "03ef1918e505c3e3471f9369ef7a638f",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Career_Portal/fonts/nucleo.b17a118e.ttf"
   },
   {
-    "revision": "04709409f6bbebeec0f663ed64bf61fe",
+    "revision": "0846cb9cc09e9180c38bfdd47051b7aa",
     "url": "/Career_Portal/index.html"
   },
   {
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/Career_Portal/img/apple-icon.png"
   },
   {
-    "revision": "0f8e789e159dcc08df61455201923173",
-    "url": "/Career_Portal/img/def_user.jpg"
-  },
-  {
     "revision": "77acae85daaf054c5f52fb1c86d461fc",
     "url": "/Career_Portal/img/edu.jpg"
+  },
+  {
+    "revision": "0f8e789e159dcc08df61455201923173",
+    "url": "/Career_Portal/img/def_user.jpg"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
