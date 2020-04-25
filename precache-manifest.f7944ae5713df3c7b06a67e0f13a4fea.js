@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ce96735aac126888e58b",
-    "url": "/Career_Portal/css/app.38c5852d.css"
+    "revision": "50afef43c284cffc3fc6",
+    "url": "/Career_Portal/css/app.ba91dd27.css"
   },
   {
-    "revision": "ce96735aac126888e58b",
-    "url": "/Career_Portal/js/app.fccb70dd.js"
+    "revision": "50afef43c284cffc3fc6",
+    "url": "/Career_Portal/js/app.da1e0a5f.js"
   },
   {
     "revision": "af0465c98da92e84df94",
@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/Career_Portal/js/chunk-vendors.edba1a09.js"
   },
   {
-    "revision": "1a881aad1de2494b24d4",
-    "url": "/Career_Portal/js/common.53b4e1c8.js"
+    "revision": "6189b2656d842f1b4e68",
+    "url": "/Career_Portal/js/common.365e35e4.js"
   },
   {
-    "revision": "259e43d901d283f0ee1c",
+    "revision": "42e9eff00af7366d8b49",
     "url": "/Career_Portal/css/dashboard.c7771e88.css"
   },
   {
-    "revision": "259e43d901d283f0ee1c",
-    "url": "/Career_Portal/js/dashboard.83351ce0.js"
+    "revision": "42e9eff00af7366d8b49",
+    "url": "/Career_Portal/js/dashboard.2d76b735.js"
   },
   {
     "revision": "03ef1918e505c3e3471f9369ef7a638f",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Career_Portal/fonts/nucleo.b17a118e.ttf"
   },
   {
-    "revision": "57150ff8bdc23357fa0cc676edc28d68",
+    "revision": "a8a8a9b3a0828f201668ab45b0945e99",
     "url": "/Career_Portal/index.html"
   },
   {
@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/Career_Portal/img/apple-icon.png"
   },
   {
-    "revision": "77acae85daaf054c5f52fb1c86d461fc",
-    "url": "/Career_Portal/img/edu.jpg"
-  },
-  {
     "revision": "0f8e789e159dcc08df61455201923173",
     "url": "/Career_Portal/img/def_user.jpg"
+  },
+  {
+    "revision": "77acae85daaf054c5f52fb1c86d461fc",
+    "url": "/Career_Portal/img/edu.jpg"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
