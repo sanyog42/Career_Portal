@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "50afef43c284cffc3fc6",
-    "url": "/Career_Portal/css/app.ba91dd27.css"
+    "revision": "8e30df4962d2c9a13e57",
+    "url": "/Career_Portal/css/app.0b7301b7.css"
   },
   {
-    "revision": "50afef43c284cffc3fc6",
+    "revision": "8e30df4962d2c9a13e57",
     "url": "/Career_Portal/js/app.da1e0a5f.js"
   },
   {
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Career_Portal/fonts/nucleo.b17a118e.ttf"
   },
   {
-    "revision": "a8a8a9b3a0828f201668ab45b0945e99",
+    "revision": "44a11cfdc21330e387309408cff53ad1",
     "url": "/Career_Portal/index.html"
   },
   {
@@ -56,16 +56,16 @@ self.__precacheManifest = [
     "url": "/Career_Portal/img/anc-logo.png"
   },
   {
-    "revision": "3b91359dcf1cf96c8440a7532ac61dda",
-    "url": "/Career_Portal/img/anime3.png"
-  },
-  {
     "revision": "fb2352b59ec879a73a262098068f1e5e",
     "url": "/Career_Portal/img/apple-icon.png"
   },
   {
     "revision": "0f8e789e159dcc08df61455201923173",
     "url": "/Career_Portal/img/def_user.jpg"
+  },
+  {
+    "revision": "3b91359dcf1cf96c8440a7532ac61dda",
+    "url": "/Career_Portal/img/anime3.png"
   },
   {
     "revision": "77acae85daaf054c5f52fb1c86d461fc",
