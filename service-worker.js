@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Career_Portal/precache-manifest.f1450621a62176498d87122b5925ca25.js"
+  "/Career_Portal/precache-manifest.e68f1eacc4fb8368baabe79d6d30736c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "Career_Portal"});
