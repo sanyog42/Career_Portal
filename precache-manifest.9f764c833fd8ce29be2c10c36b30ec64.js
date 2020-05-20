@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "17db3ebea29a00f2d448",
+    "revision": "e511fa2570d62eced2f8",
     "url": "/Career_Portal/css/app.cdca6fda.css"
   },
   {
-    "revision": "17db3ebea29a00f2d448",
-    "url": "/Career_Portal/js/app.fc4eb53a.js"
+    "revision": "e511fa2570d62eced2f8",
+    "url": "/Career_Portal/js/app.4ec407ea.js"
   },
   {
     "revision": "db8e9d3b10c33638ba18",
@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/Career_Portal/js/chunk-vendors.34d71161.js"
   },
   {
-    "revision": "a91300f5debd91cdeefb",
-    "url": "/Career_Portal/js/common.ae721bbc.js"
+    "revision": "b29f0fdb6f2560644179",
+    "url": "/Career_Portal/js/common.ff83aec7.js"
   },
   {
-    "revision": "9b0db5438bdd1d6daebb",
+    "revision": "bf4bb9eec0d7ed72009d",
     "url": "/Career_Portal/css/dashboard.c7771e88.css"
   },
   {
-    "revision": "9b0db5438bdd1d6daebb",
-    "url": "/Career_Portal/js/dashboard.33154ec3.js"
+    "revision": "bf4bb9eec0d7ed72009d",
+    "url": "/Career_Portal/js/dashboard.1161a73c.js"
   },
   {
     "revision": "03ef1918e505c3e3471f9369ef7a638f",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/Career_Portal/fonts/nucleo.b17a118e.ttf"
   },
   {
-    "revision": "0751fdad90bdb9f1c7d8d59b7abe56ea",
+    "revision": "f655bb52b11f53c01da84e5aafe18368",
     "url": "/Career_Portal/index.html"
   },
   {
